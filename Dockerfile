@@ -5,4 +5,4 @@ FROM n8nio/n8n:latest
 ENV GENERIC_TIMEZONE="America/Bogota"
 
 # Expongo el puerto por el que n8n escucha dentro del contenedor
-EXPOSE 443
+EXPOSE 5678
